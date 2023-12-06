@@ -1,8 +1,40 @@
-Defo file content is here
+
+                        ***    About SQL       ***
 About SQL:
 SQL stands for Standered Query Language use to maintain and manage RDBMS which is one of the type of DBMS.
+
 sub-languages comes under SQL are given as folllows:
-DDL-Data Defination Language
-DML-
-TCL
-DCL
+
+A] DDL-Data Defination Language:
+Used to cerat and modify table in database.
+Operations:
+1) create
+2) rename
+3) Alter
+4) Truncate
+5) Drop
+
+B] DML-Data Manipulation language:
+Used to store and modify data in database.
+Operations:
+1) Insert
+2) Update
+3) Delete
+
+D] DCL-Data Control language:
+Used to save data as per different situation in database.
+Operations:
+1) Grant
+2) Revoke
+
+E] DQL-Data Query LAnguage
+Retrival of data present  in table as per conditions 
+Operations:
+1) Select
+2) Projection
+3) Joins
+4) Selection
+
+
+
+
