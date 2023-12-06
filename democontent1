@@ -1,1 +1,4 @@
 Defo file content is here
+SQL qury to select all the detail of table
+Syntax:
+slect * from table_name;
