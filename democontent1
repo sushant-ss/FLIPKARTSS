@@ -1,4 +1,8 @@
 Defo file content is here
-SQL qury to select all the detail of table
-Syntax:
-slect * from table_name;
+About SQL:
+SQL stands for Standered Query Language use to maintain and manage RDBMS which is one of the type of DBMS.
+sub-languages comes under SQL are given as folllows:
+DDL-Data Defination Language
+DML-
+TCL
+DCL
